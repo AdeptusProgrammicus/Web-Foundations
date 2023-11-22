@@ -1,0 +1,51 @@
+img {
+    width: 40%;
+    border: 2px solid rgb(121, 29, 29);
+}
+
+h2 {
+    color: black;
+}
+
+h4 {
+    color: rgba(116, 109, 109, 0.863);
+}
+
+.container {
+    background-color: rgb(4, 145, 163);
+    color: goldenrod;
+    padding: 20px;
+    border: 2px solid rgb(121, 29, 29);
+    border-radius: 10px;
+    margin: 1% auto;
+    width: 200px
+}
+
+.skills {
+    background-color: rgb(226, 225, 225);
+    border: 10;
+
+}
+
+#demo:hover {
+    background-color: rgba(255, 251, 0, 0.637);
+    border-radius: 10px;
+    padding-left: 15px;
+}
+
+#demo {
+    border: 1.5px solid black;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.advice {
+    background-color: rgb(226, 225, 225);
+    border: 2px solid rgb(121, 29, 29);
+}
+
+.link {
+    text-align: left;
+    background-color: rgb(226, 225, 225);
+    border: 2px solid rgb(121, 29, 29);
+}
